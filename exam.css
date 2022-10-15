@@ -1,0 +1,154 @@
+/* screen - exam */
+
+.exam {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  width: 1080px;
+}
+
+.exam .overlap-group {
+  background-image: url(../img/vecteezy-pink-ribbon-seamless-pattern-cancer-medical-background-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1920px;
+  position: relative;
+  width: 1080px;
+}
+
+.exam .image {
+  height: 391px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 483px;
+  width: 447px;
+}
+
+.exam .self-ex {
+  height: 361px;
+  left: 668px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 412px;
+}
+
+.exam .line-1 {
+  height: 832px;
+  left: 536px;
+  object-fit: cover;
+  position: absolute;
+  top: 412px;
+  width: 14px;
+}
+
+.exam .rectangle-1 {
+  border: 17px solid;
+  border-color: #f8f5f5;
+  height: 1752px;
+  left: 39px;
+  position: absolute;
+  top: 45px;
+  width: 1010px;
+}
+
+.exam .rectangle-2 {
+  background-color: #eca2e0;
+  cursor: pointer;
+  height: 124px;
+  left: 99px;
+  opacity: 0.61;
+  position: absolute;
+  top: 859px;
+  transition: all 0.2s ease;
+  width: 291px;
+}
+
+.exam .rectangle-2:hover {
+  background-color: #fff
+}
+
+.exam .x1 {
+  color: #0a090a;
+  cursor: pointer;
+  direction: rtl;
+  font-family: var(--font-family-dubai-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 125px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 874px;
+  width: 267px;
+}
+
+.exam .rectangle-3 {
+  background-color: #eca2e0;
+  cursor: pointer;
+  height: 124px;
+  left: 687px;
+  opacity: 0.61;
+  position: absolute;
+  top: 859px;
+  transition: all 0.2s ease;
+  width: 291px;
+}
+
+.exam .rectangle-3:hover {
+  background-color: #fff
+}
+
+.exam .x2 {
+  color: #0a090a;
+  cursor: pointer;
+  font-family: var(--font-family-dubai-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 874px;
+  width: 265px;
+}
+
+.exam .koc_-logo_for_wikipedia {
+  height: 222px;
+  left: 833px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 180px;
+}
+
+.exam .text-1 {
+  color: #1e1c1e;
+  direction: rtl;
+  font-family: var(--font-family-timesnew_roman-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.exam .ahmadi-hospital-radiology-team {
+  color: #1e1c1e;
+  font-family: var(--font-family-timesnew_roman-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 165px;
+  white-space: nowrap;
+  width: 751px;
+}
